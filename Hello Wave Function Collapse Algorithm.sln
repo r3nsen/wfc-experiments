@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello Wave Function Collapse Algorithm", "Hello Wave Function Collapse Algorithm.csproj", "{E83943E3-1628-426F-87F3-E68FDB8F99DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E83943E3-1628-426F-87F3-E68FDB8F99DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83943E3-1628-426F-87F3-E68FDB8F99DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E83943E3-1628-426F-87F3-E68FDB8F99DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E83943E3-1628-426F-87F3-E68FDB8F99DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B0CC252-8DAC-487A-BE1D-85C2E8AD932F}
+	EndGlobalSection
+EndGlobal
